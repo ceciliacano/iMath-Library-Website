@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <title>INSTITUTE OF MATHEMATICS LIBRARY</title>
+
+  <base target="main">
+</head>
+
+<body>
+
+<style>
+.btn-group button {
+    background-color: lightblue; /* lightblue background */
+    border: 2px solid black; /* blue border */
+    color: black; /* black text */
+    padding: 10px 35px; /* Some padding */
+    cursor: pointer; /* Pointer */
+    float: left; /* Float the buttons side by side */
+    width: 15%;
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.btn-group button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+}
+/* Add a background color on hover */
+.btn-group button:hover {
+    background-color: lightgray;
+}
+</style>
+
+<body>
+
+<h4></h4>
+
+<div class="btn-group">
+  <a href="main.htm"><button>Home</button>
+  <a href="about.htm"><button>About</button>
+  <a href="http://ilib.upd.edu.ph/servlet/template/Index.vm;jsessionid=C02F23B663590A45B3A4D551D9CB8F9F"><button>OPAC</button>
+  <a href="collection.htm"><button>Collections</button>
+  <a href="services.htm"><button>Services</button>
+  <a href="contact.htm"><button>Contact Us</button>
+</div>
+
+</body>
+</html>

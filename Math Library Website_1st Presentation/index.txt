@@ -1,0 +1,21 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+<head>
+<title>INSTITUTE OF MATHEMATICS LIBRARY</title>
+</head>
+
+<frameset rows="15%,*">
+<frame src=banner.htm target=main scrolling=no frameborder="" bordercolor="maroon">
+
+<frameset rows="10%,*">
+<frame src=nav.htm target=main scrolling=no noresize frameborder="">
+<base target=main>
+
+<frameset rows="82%,18%">
+<frame src=main.htm name=main frameborder="1" bordercolor="maroon">
+<frame scrolling="no" noresize src=footer.htm frameborder="1" bordercolor="maroon">
+</frameset>
+
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+<head>
+  <title>iMATH LIBRARY ORIENTATION</title>
+  <meta name="description" content="Institute of Mathematics Library!">
+  <meta name="keywords" content="iMath Library">
+
+</head>
+
+<body>
+
+<p>
+<h1>WELCOME TO THE MATH LIBRARY</h1>
+</p>
+<p>
+<center>
+<a href="http://www.math.upd.edu.ph"><img src="IM Entrance.jpg" align="center" border="?" height="250" width="410"></a><br>
+</p>
+
+<p></p>
+
+<html>
+<form>
+     <center>
+	<p>Enter your key word</p>
+	<input type="text placeholder="Search..." required>
+	<input type="button" value="Search">
+</form>
+</html>
+
+<html>
+<head4>
+
+<br></br>
+
+<button class="btn faculty publications">Faculty Publications</button>
+<button class="btn e-journals">E-Journals</button>
+<button class="btn e-books">E-Books</button>
+<button class="btn electronic databases">Electronic Databases</button>
+<button class="btn new books">New Books</button>
+
+</head4>
+
+</body>
+</html>
